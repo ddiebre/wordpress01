@@ -1,0 +1,2461 @@
+# Copyright (C) 2014 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Makali 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/roadthemes\n"
+"POT-Creation-Date: 2020-04-17 10:01+0700\n"
+"PO-Revision-Date: 2015-12-14 21:10+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: _e;_n;__;_x;_ex;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../makali/404.php:15
+msgid "OOPS! PAGE NOT BE FOUND"
+msgstr ""
+
+#: ../makali/404.php:16
+msgid ""
+"Sorry but the page you are looking for does not exist, has been removed, "
+"changed or is temporarity unavailable."
+msgstr ""
+
+#: ../makali/404.php:18
+msgid "Back to home page"
+msgstr ""
+
+#: ../makali/archive.php:75 ../makali/author.php:69 ../makali/category.php:69
+#: ../makali/functions.php:3083 ../makali/image.php:57 ../makali/index.php:73
+#: ../makali/search.php:65 ../makali/tag.php:65 ../makali/theme-config.php:1315
+msgid "Blog"
+msgstr ""
+
+#: ../makali/author.php:82
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../makali/author.php:109
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../makali/category.php:73
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:327 ../makali/functions.php:3475
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:328 ../makali/functions.php:3476
+msgid "Install Plugins"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:330 ../makali/functions.php:3477
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:333 ../makali/functions.php:3478
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:385 ../makali/functions.php:3489
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:386
+#: ../makali/class-tgm-plugin-activation.php:827
+#: ../makali/class-tgm-plugin-activation.php:2533
+#: ../makali/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:387
+#: ../makali/class-tgm-plugin-activation.php:3159 ../makali/functions.php:3490
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:388
+#: ../makali/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:934
+#: ../makali/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2482
+msgid "unknown"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2554
+#: ../makali/woocommerce/myaccount/my-orders.php:42
+#: ../makali/woocommerce/myaccount/my-orders.php:63
+msgid "Status"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:3509
+#: ../makali/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:3509
+#: ../makali/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../makali/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../makali/comments.php:27 ../makali/functions.php:3282
+msgid "1 comment"
+msgstr ""
+
+#: ../makali/comments.php:44
+msgid "Comments are closed."
+msgstr ""
+
+#: ../makali/content-audio.php:31 ../makali/content-audio.php:102
+#: ../makali/content-gallery.php:23 ../makali/content-gallery.php:92
+#: ../makali/content-image.php:25 ../makali/content-image.php:92
+#: ../makali/content-video.php:29 ../makali/content-video.php:124
+#: ../makali/content.php:25 ../makali/content.php:92
+msgid "Posted by"
+msgstr ""
+
+#: ../makali/content-audio.php:36 ../makali/content-audio.php:107
+#: ../makali/content-gallery.php:28 ../makali/content-gallery.php:97
+#: ../makali/content-image.php:30 ../makali/content-image.php:97
+#: ../makali/content-video.php:34 ../makali/content-video.php:129
+#: ../makali/content.php:30 ../makali/content.php:97
+msgid "Posted on : "
+msgstr ""
+
+#: ../makali/content-audio.php:47 ../makali/content-audio.php:118
+#: ../makali/content-gallery.php:39 ../makali/content-gallery.php:108
+#: ../makali/content-image.php:41 ../makali/content-image.php:108
+#: ../makali/content-video.php:46 ../makali/content-video.php:141
+#: ../makali/content.php:41 ../makali/content.php:109
+#: ../makali/include/map_shortcodes.php:545
+msgid "Category"
+msgstr ""
+
+#: ../makali/content-audio.php:93 ../makali/content-gallery.php:83
+#: ../makali/content-image.php:83 ../makali/content-video.php:115
+#: ../makali/content.php:83
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../makali/content-audio.php:94 ../makali/content-gallery.php:84
+#: ../makali/content-image.php:84 ../makali/content-page.php:13
+#: ../makali/content-video.php:116 ../makali/content.php:84
+#: ../makali/image.php:114
+msgid "Pages:"
+msgstr ""
+
+#: ../makali/content-audio.php:140 ../makali/content-gallery.php:126
+#: ../makali/content-image.php:117 ../makali/content-video.php:161
+#: ../makali/content.php:119
+msgid "+ Read more"
+msgstr ""
+
+#: ../makali/content-audio.php:157 ../makali/content-gallery.php:143
+#: ../makali/content-image.php:134 ../makali/content-video.php:178
+#: ../makali/content.php:136
+msgid "About the Author:"
+msgstr ""
+
+#: ../makali/content-audio.php:179 ../makali/content-gallery.php:166
+#: ../makali/content-image.php:156 ../makali/content-video.php:200
+#: ../makali/content.php:158
+msgid "Related posts"
+msgstr ""
+
+#: ../makali/content-none.php:12 ../makali/index.php:99 ../makali/search.php:81
+msgid "Nothing Found"
+msgstr ""
+
+#: ../makali/content-none.php:15 ../makali/index.php:102
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../makali/footer.php:48
+msgid "Copyright"
+msgstr ""
+
+#: ../makali/footer.php:48
+msgid "All Rights Reserved"
+msgstr ""
+
+#: ../makali/functions.php:168
+msgid "Search... "
+msgstr ""
+
+#: ../makali/functions.php:185 ../makali/functions.php:2739
+#: ../makali/functions.php:2745 ../makali/functions.php:2749
+msgid "Search product..."
+msgstr ""
+
+#: ../makali/functions.php:190
+msgid "Search"
+msgstr ""
+
+#: ../makali/functions.php:316
+msgid "Primary Menu"
+msgstr ""
+
+#: ../makali/functions.php:317
+msgid "Primary Menu 2"
+msgstr ""
+
+#: ../makali/functions.php:318 ../makali/include/map_shortcodes.php:174
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../makali/functions.php:319 ../makali/include/map_shortcodes.php:210
+#: ../makali/theme-config.php:553
+msgid "Categories Menu"
+msgstr ""
+
+#: ../makali/functions.php:2755 ../makali/functions.php:2761
+#: ../makali/functions.php:2765
+msgid "Search..."
+msgstr ""
+
+#: ../makali/functions.php:2839
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../makali/functions.php:2841
+msgid "Sidebar on blog page"
+msgstr ""
+
+#: ../makali/functions.php:2848
+msgid "Shop Sidebar"
+msgstr ""
+
+#: ../makali/functions.php:2850
+msgid "Sidebar on shop page (only sidebar shop layout)"
+msgstr ""
+
+#: ../makali/functions.php:2857
+msgid "Single product Sidebar"
+msgstr ""
+
+#: ../makali/functions.php:2859
+msgid "Sidebar on product details page"
+msgstr ""
+
+#: ../makali/functions.php:2866
+msgid "Pages Sidebar"
+msgstr ""
+
+#: ../makali/functions.php:2868
+msgid "Sidebar on content pages"
+msgstr ""
+
+#: ../makali/functions.php:2900
+msgid ""
+"This content will be used to replace the featured image, use shortcode here"
+msgstr ""
+
+#: ../makali/functions.php:2916
+msgid "Select a custom sidebar for this post/page"
+msgstr ""
+
+#: ../makali/functions.php:2919
+msgid "- None -"
+msgstr ""
+
+#: ../makali/functions.php:2932
+msgid "Sidebar position"
+msgstr ""
+
+#: ../makali/functions.php:2935
+msgid "Left"
+msgstr ""
+
+#: ../makali/functions.php:2936
+msgid "Right"
+msgstr ""
+
+#: ../makali/functions.php:3032 ../makali/functions.php:3078
+msgid "Home"
+msgstr ""
+
+#: ../makali/functions.php:3066 ../makali/functions.php:3067
+#: ../makali/functions.php:3068
+#, php-format
+msgid "Archive for: %s"
+msgstr ""
+
+#: ../makali/functions.php:3067
+msgid "F Y"
+msgstr ""
+
+#: ../makali/functions.php:3068
+msgid "Y"
+msgstr ""
+
+#: ../makali/functions.php:3069
+msgid "Archive for"
+msgstr ""
+
+#: ../makali/functions.php:3070
+msgid "Blog Archives"
+msgstr ""
+
+#: ../makali/functions.php:3071
+msgid "Search Results"
+msgstr ""
+
+#: ../makali/functions.php:3145 ../makali/functions.php:3146
+msgid "on"
+msgstr ""
+
+#: ../makali/functions.php:3173
+msgid "Post navigation"
+msgstr ""
+
+#: ../makali/functions.php:3174
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../makali/functions.php:3175
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../makali/functions.php:3195
+msgid "Previous"
+msgstr ""
+
+#: ../makali/functions.php:3196
+msgid "Next"
+msgstr ""
+
+#: ../makali/functions.php:3219
+msgid "Pingback:"
+msgstr ""
+
+#: ../makali/functions.php:3219
+msgid "(Edit)"
+msgstr ""
+
+#: ../makali/functions.php:3237
+msgid "Post author"
+msgstr ""
+
+#: ../makali/functions.php:3242
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../makali/functions.php:3246
+msgid "Reply"
+msgstr ""
+
+#: ../makali/functions.php:3250
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../makali/functions.php:3254 ../makali/image.php:139
+msgid "Edit"
+msgstr ""
+
+#: ../makali/functions.php:3278
+msgid "0 comments"
+msgstr ""
+
+#: ../makali/functions.php:3280 ../makali/functions.php:3322
+#: ../makali/include/shortcodes.php:487
+msgid " comments"
+msgstr ""
+
+#: ../makali/functions.php:3288 ../makali/functions.php:3292
+#, php-format
+msgid "Tags: %2$s"
+msgstr ""
+
+#: ../makali/functions.php:3290
+#, php-format
+msgid "%1$s / Tags: %2$s"
+msgstr ""
+
+#: ../makali/functions.php:3294 ../makali/functions.php:3328
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../makali/functions.php:3303
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../makali/functions.php:3306
+#, php-format
+msgid "Posted by %1$s / %2$s"
+msgstr ""
+
+#: ../makali/functions.php:3320 ../makali/include/shortcodes.php:485
+msgid "<span>0</span> comments"
+msgstr ""
+
+#: ../makali/functions.php:3324 ../makali/include/shortcodes.php:489
+msgid "<span>1</span> comment"
+msgstr ""
+
+#: ../makali/functions.php:3337
+msgid "RoadThemes Helper"
+msgstr ""
+
+#: ../makali/functions.php:3347
+msgid "Mega Main Menu"
+msgstr ""
+
+#: ../makali/functions.php:3354
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../makali/functions.php:3361
+msgid "Import Sample Data"
+msgstr ""
+
+#: ../makali/functions.php:3368
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: ../makali/functions.php:3375
+msgid "Templatera"
+msgstr ""
+
+#: ../makali/functions.php:3382
+msgid "Essential Grid"
+msgstr ""
+
+#: ../makali/functions.php:3389 ../makali/theme-config.php:1363
+msgid "Testimonials"
+msgstr ""
+
+#: ../makali/functions.php:3397
+msgid "Redux Framework"
+msgstr ""
+
+#: ../makali/functions.php:3404
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../makali/functions.php:3409
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: ../makali/functions.php:3414
+msgid "Shortcodes Ultimate"
+msgstr ""
+
+#: ../makali/functions.php:3419
+msgid "Simple Local Avatars"
+msgstr ""
+
+#: ../makali/functions.php:3424
+msgid "TinyMCE Advanced"
+msgstr ""
+
+#: ../makali/functions.php:3429
+msgid "Widget Importer & Exporter"
+msgstr ""
+
+#: ../makali/functions.php:3434
+msgid "WooCommerce"
+msgstr ""
+
+#: ../makali/functions.php:3439
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: ../makali/functions.php:3444
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: ../makali/functions.php:3449
+msgid "YITH WooCommerce Zoom Magnifier"
+msgstr ""
+
+#: ../makali/functions.php:3454
+msgid "Smash Balloon Instagram Feed"
+msgstr ""
+
+#: ../makali/functions.php:3491
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../makali/image.php:128
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel="
+"\"gallery\">%8$s</a>."
+msgstr ""
+
+#: ../makali/image.php:146
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../makali/image.php:147
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:7
+#: ../makali/include/map_shortcodes.php:372
+#: ../makali/include/map_shortcodes.php:504
+#: ../makali/include/map_shortcodes.php:584
+#: ../makali/include/map_shortcodes.php:790
+#: ../makali/include/map_shortcodes.php:846
+msgid "Style"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:10
+msgid "Grid view"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:11
+msgid "List view"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:12
+#: ../makali/include/map_shortcodes.php:813
+#: ../makali/include/map_shortcodes.php:814
+msgid "Countdown"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:17
+#: ../makali/include/map_shortcodes.php:597
+msgid "Enable slider"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:18
+msgid ""
+"If slider is enabled, the \"column\" ins General group is the number of rows "
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:22
+#: ../makali/include/map_shortcodes.php:28
+#: ../makali/include/map_shortcodes.php:35
+#: ../makali/include/map_shortcodes.php:42
+#: ../makali/include/map_shortcodes.php:49
+#: ../makali/include/map_shortcodes.php:56
+#: ../makali/include/map_shortcodes.php:63
+#: ../makali/include/map_shortcodes.php:71
+#: ../makali/include/map_shortcodes.php:82
+#: ../makali/include/map_shortcodes.php:94
+#: ../makali/include/map_shortcodes.php:102
+#: ../makali/include/map_shortcodes.php:109
+#: ../makali/include/map_shortcodes.php:116
+#: ../makali/include/map_shortcodes.php:122
+#: ../makali/include/map_shortcodes.php:601
+#: ../makali/include/map_shortcodes.php:609
+#: ../makali/include/map_shortcodes.php:624
+#: ../makali/include/map_shortcodes.php:633
+#: ../makali/include/map_shortcodes.php:642
+#: ../makali/include/map_shortcodes.php:651
+#: ../makali/include/map_shortcodes.php:660
+#: ../makali/include/map_shortcodes.php:667
+#: ../makali/include/map_shortcodes.php:678
+#: ../makali/include/map_shortcodes.php:690
+#: ../makali/include/map_shortcodes.php:698
+#: ../makali/include/map_shortcodes.php:705
+#: ../makali/include/map_shortcodes.php:712
+#: ../makali/include/map_shortcodes.php:718
+msgid "Slider Options"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:26
+#: ../makali/include/map_shortcodes.php:284
+#: ../makali/include/map_shortcodes.php:416
+msgid "Number of columns (screen: over 1201px)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:29
+#: ../makali/include/map_shortcodes.php:36
+#: ../makali/include/map_shortcodes.php:286
+#: ../makali/include/map_shortcodes.php:294
+#: ../makali/include/map_shortcodes.php:434
+msgid "4"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:33
+#: ../makali/include/map_shortcodes.php:292
+#: ../makali/include/map_shortcodes.php:424
+#: ../makali/include/map_shortcodes.php:621
+msgid "Number of columns (screen: 993px - 1200px)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:40
+#: ../makali/include/map_shortcodes.php:300
+#: ../makali/include/map_shortcodes.php:432
+#: ../makali/include/map_shortcodes.php:630
+msgid "Number of columns (screen: 769px - 992px)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:43
+#: ../makali/include/map_shortcodes.php:302
+#: ../makali/include/map_shortcodes.php:442
+#: ../makali/include/map_shortcodes.php:623
+#: ../makali/include/map_shortcodes.php:632
+msgid "3"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:47
+#: ../makali/include/map_shortcodes.php:308
+#: ../makali/include/map_shortcodes.php:440
+#: ../makali/include/map_shortcodes.php:639
+msgid "Number of columns (screen: 641px - 768px)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:50
+#: ../makali/include/map_shortcodes.php:57
+#: ../makali/include/map_shortcodes.php:310
+#: ../makali/include/map_shortcodes.php:318
+#: ../makali/include/map_shortcodes.php:450
+#: ../makali/include/map_shortcodes.php:641
+#: ../makali/include/map_shortcodes.php:650
+msgid "2"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:54
+#: ../makali/include/map_shortcodes.php:316
+#: ../makali/include/map_shortcodes.php:448
+#: ../makali/include/map_shortcodes.php:648
+msgid "Number of columns (screen: 481px - 640px)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:61
+#: ../makali/include/map_shortcodes.php:324
+#: ../makali/include/map_shortcodes.php:456
+#: ../makali/include/map_shortcodes.php:657
+msgid "Number of columns (screen: under 480px)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:64
+#: ../makali/include/map_shortcodes.php:326
+#: ../makali/include/map_shortcodes.php:458
+#: ../makali/include/map_shortcodes.php:659
+msgid "1"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:68
+#: ../makali/include/map_shortcodes.php:330
+#: ../makali/include/map_shortcodes.php:462
+#: ../makali/include/map_shortcodes.php:664
+msgid "Navigation"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:73
+#: ../makali/include/map_shortcodes.php:85
+#: ../makali/include/map_shortcodes.php:333
+#: ../makali/include/map_shortcodes.php:343
+#: ../makali/include/map_shortcodes.php:465
+#: ../makali/include/map_shortcodes.php:475
+#: ../makali/include/map_shortcodes.php:669
+#: ../makali/include/map_shortcodes.php:681
+msgid "Yes"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:74
+#: ../makali/include/map_shortcodes.php:84
+#: ../makali/include/map_shortcodes.php:334
+#: ../makali/include/map_shortcodes.php:342
+#: ../makali/include/map_shortcodes.php:466
+#: ../makali/include/map_shortcodes.php:474
+#: ../makali/include/map_shortcodes.php:670
+#: ../makali/include/map_shortcodes.php:680
+msgid "No"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:79
+#: ../makali/include/map_shortcodes.php:339
+#: ../makali/include/map_shortcodes.php:471
+#: ../makali/include/map_shortcodes.php:675
+msgid "Pagination"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:90
+#: ../makali/include/map_shortcodes.php:348
+#: ../makali/include/map_shortcodes.php:480
+#: ../makali/include/map_shortcodes.php:686
+msgid "Item Margin (unit:pixel)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:98
+#: ../makali/include/map_shortcodes.php:354
+#: ../makali/include/map_shortcodes.php:486
+#: ../makali/include/map_shortcodes.php:694
+msgid "Slider speed number (unit: second)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:106
+#: ../makali/include/map_shortcodes.php:361
+#: ../makali/include/map_shortcodes.php:493
+#: ../makali/include/map_shortcodes.php:702
+msgid "Slider loop"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:113
+#: ../makali/include/map_shortcodes.php:367
+#: ../makali/include/map_shortcodes.php:499
+#: ../makali/include/map_shortcodes.php:709
+msgid "Slider Auto"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:120
+#: ../makali/include/map_shortcodes.php:381
+#: ../makali/include/map_shortcodes.php:515
+#: ../makali/include/map_shortcodes.php:716
+msgid "Navigation style"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:136
+msgid "Main Menu"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:137
+msgid "Set Primary Menu in Apperance - Menus - Manage Locations"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:140
+#: ../makali/include/map_shortcodes.php:159
+#: ../makali/include/map_shortcodes.php:178
+#: ../makali/include/map_shortcodes.php:196
+#: ../makali/include/map_shortcodes.php:214
+#: ../makali/include/map_shortcodes.php:224
+#: ../makali/include/map_shortcodes.php:234
+#: ../makali/include/map_shortcodes.php:244
+#: ../makali/include/map_shortcodes.php:254
+#: ../makali/include/map_shortcodes.php:264
+#: ../makali/include/map_shortcodes.php:396
+#: ../makali/include/map_shortcodes.php:530
+#: ../makali/include/map_shortcodes.php:732
+#: ../makali/include/map_shortcodes.php:768
+#: ../makali/include/map_shortcodes.php:817
+msgid "Theme"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:147
+#: ../makali/include/map_shortcodes.php:166
+msgid "Upload sticky logo image"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:155
+msgid "Main Menu 2"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:156
+msgid "Set Primary Menu 2 in Apperance - Menus - Manage Locations"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:175
+#: ../makali/include/map_shortcodes.php:185
+msgid "Set Mobile Menu in Apperance - Menus - Manage Locations"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:192
+#: ../makali/include/map_shortcodes.php:193
+#: ../makali/include/shortcodes.php:592
+msgid "Wishlist"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:203
+msgid "This widget does not have settings"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:211
+msgid "Set Categories Menu in Apperance - Menus - Manage Locations"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:220 ../makali/theme-config.php:726
+#: ../makali/theme-config.php:732
+msgid "Social Icons"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:221
+msgid "Configure icons and links in Theme Options"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:230
+#: ../makali/include/map_shortcodes.php:231
+msgid "Mini Cart"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:240
+#: ../makali/include/map_shortcodes.php:241
+msgid "Product Search (No dropdown)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:250
+#: ../makali/include/map_shortcodes.php:251
+msgid "Product Search (Dropdown)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:260 ../makali/theme-config.php:1010
+msgid "Image slider"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:261
+#: ../makali/include/map_shortcodes.php:393
+msgid "Upload images and links in Theme Options"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:271
+#: ../makali/include/map_shortcodes.php:403
+#: ../makali/include/map_shortcodes.php:607
+msgid "Number of rows"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:375
+#: ../makali/include/map_shortcodes.php:507
+#: ../makali/include/map_shortcodes.php:587
+#: ../makali/include/map_shortcodes.php:849
+msgid "Style 1"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:376
+#: ../makali/include/map_shortcodes.php:588
+msgid "Style 2"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:384
+#: ../makali/include/map_shortcodes.php:518
+#: ../makali/include/map_shortcodes.php:720
+msgid "Navigation center horizontal"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:385
+#: ../makali/include/map_shortcodes.php:519
+#: ../makali/include/map_shortcodes.php:721
+msgid "Navigation top-right"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:392 ../makali/theme-config.php:1029
+msgid "Brand Logos"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:418
+#: ../makali/include/map_shortcodes.php:426
+msgid "5"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:508
+msgid "Style 2 (border top and bottom)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:509
+msgid "Style 3 (border top)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:510
+#: ../makali/include/map_shortcodes.php:590
+msgid "Style 4"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:526
+msgid "Latest posts"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:527
+msgid "List posts"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:537
+msgid "Number of posts"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:539
+msgid "10"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:547
+msgid "0"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:548
+msgid "ID/slug of the category. Default is 0 : show all posts"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:554
+msgid "Image scale"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:565
+msgid "Excerpt length"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:567
+msgid "20"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:573
+msgid "Number of columns"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:589
+msgid "Style 3"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:591
+msgid "Style 5"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:592
+msgid "Style 6"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:728
+#: ../makali/include/map_shortcodes.php:729
+msgid "Counter"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:739
+msgid "Image icon"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:742
+msgid "Upload icon image"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:748
+msgid "Number"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:756
+msgid "Text"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:764
+#: ../makali/include/map_shortcodes.php:765
+msgid "Heading Title"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:775
+msgid "Heading title element"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:783
+msgid "Heading sub-title element"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:793
+msgid "Style 1 (Default)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:794
+msgid "Style 2 (Product coundown title layout1)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:795
+msgid "Style 3 (Testimonial title layout1)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:796
+msgid "Style 4 (Footer title)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:797
+msgid "Style 5 (List product title)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:798
+msgid "Style 6 (Sidebar title)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:799
+msgid "Style 7 (Layout 5 title)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:800
+msgid "Style 8 (Layout 7+8 title - no icon)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:801
+msgid "Style 8 with \"White\" color"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:802
+msgid "Style 9 (List product title 2)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:803
+msgid "Style 10 (Layout 19 title)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:804
+msgid "Style 11 (Sidebar title 2)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:805
+msgid "Style 12"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:806
+msgid "Style 13"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:824
+msgid "End date (day)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:832
+msgid "End date (month)"
+msgstr ""
+
+#: ../makali/include/map_shortcodes.php:840
+msgid "End date (year)"
+msgstr ""
+
+#: ../makali/include/roadthemeswidgets.php:6
+msgid "Roadthemes Widgets"
+msgstr ""
+
+#: ../makali/include/roadthemeswidgets.php:8
+msgid "Display recent posts, comments, popular posts"
+msgstr ""
+
+#: ../makali/include/roadthemeswidgets.php:118
+msgid "says"
+msgstr ""
+
+#: ../makali/include/roadthemeswidgets.php:157
+msgid "Title:"
+msgstr ""
+
+#: ../makali/include/roadthemeswidgets.php:161
+msgid "Amount:"
+msgstr ""
+
+#: ../makali/include/roadthemeswidgets.php:165
+msgid "Image size (example: 50,50):"
+msgstr ""
+
+#: ../makali/include/roadthemeswidgets.php:169
+msgid "Widget Type:"
+msgstr ""
+
+#: ../makali/include/roadthemeswidgets.php:171
+msgid "Recent Posts"
+msgstr ""
+
+#: ../makali/include/roadthemeswidgets.php:172
+msgid "Popular Posts"
+msgstr ""
+
+#: ../makali/include/roadthemeswidgets.php:173
+msgid "Recent Comments"
+msgstr ""
+
+#: ../makali/include/shortcodes.php:78
+msgid "ALL CATEGORIES"
+msgstr ""
+
+#: ../makali/include/shortcodes.php:83
+msgid "More Categories"
+msgstr ""
+
+#: ../makali/include/shortcodes.php:84
+msgid "Close Menu"
+msgstr ""
+
+#: ../makali/include/shortcodes.php:134
+msgid "All Categories"
+msgstr ""
+
+#: ../makali/include/shortcodes.php:511
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../makali/include/shortcodes.php:511
+msgid "Posted by "
+msgstr ""
+
+#: ../makali/include/wooajax.php:87 ../makali/woocommerce/cart/mini-cart.php:33
+#, php-format
+msgid "%d"
+msgstr ""
+
+#: ../makali/include/wooajax.php:100
+msgid "Product is added to cart"
+msgstr ""
+
+#: ../makali/include/wooajax.php:121
+msgid "View Cart"
+msgstr ""
+
+#: ../makali/index.php:90
+msgid "No posts to display"
+msgstr ""
+
+#: ../makali/index.php:93
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../makali/search.php:69
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../makali/search.php:84
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../makali/tag.php:69
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../makali/theme-config.php:69
+msgid "Section via hook"
+msgstr ""
+
+#: ../makali/theme-config.php:70
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../makali/theme-config.php:106
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../makali/theme-config.php:120
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../makali/theme-config.php:121
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../makali/theme-config.php:122
+msgid "Tags"
+msgstr ""
+
+#: ../makali/theme-config.php:127
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../makali/theme-config.php:127
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../makali/theme-config.php:137
+msgid "Layout"
+msgstr ""
+
+#: ../makali/theme-config.php:138
+msgid "Select page layout: Box or Full Width"
+msgstr ""
+
+#: ../makali/theme-config.php:145
+msgid "Page Layout"
+msgstr ""
+
+#: ../makali/theme-config.php:156
+msgid "Box layout width"
+msgstr ""
+
+#: ../makali/theme-config.php:157
+msgid "Box layout width in pixels, default value: 1230"
+msgstr ""
+
+#: ../makali/theme-config.php:167
+msgid "Box layout main content and footer"
+msgstr ""
+
+#: ../makali/theme-config.php:168
+msgid "Box layout width in pixels, default value: 1250"
+msgstr ""
+
+#: ../makali/theme-config.php:179
+msgid "General"
+msgstr ""
+
+#: ../makali/theme-config.php:180
+msgid "General theme options"
+msgstr ""
+
+#: ../makali/theme-config.php:187
+msgid "Body background"
+msgstr ""
+
+#: ../makali/theme-config.php:188
+msgid "Upload image or select color. Only work with box layout"
+msgstr ""
+
+#: ../makali/theme-config.php:195
+msgid "Body background (box body)"
+msgstr ""
+
+#: ../makali/theme-config.php:196
+msgid "Upload image or select color. Only work with box body layout"
+msgstr ""
+
+#: ../makali/theme-config.php:202
+msgid "Page content background"
+msgstr ""
+
+#: ../makali/theme-config.php:203
+msgid "Select background for page content (default: #ffffff)."
+msgstr ""
+
+#: ../makali/theme-config.php:210
+msgid "Page content background (box body)"
+msgstr ""
+
+#: ../makali/theme-config.php:211
+msgid ""
+"Select background for page content (default: #ffffff). Only work with box "
+"body layout"
+msgstr ""
+
+#: ../makali/theme-config.php:217
+msgid "Border Option"
+msgstr ""
+
+#: ../makali/theme-config.php:218
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: ../makali/theme-config.php:224
+msgid "Back To Top"
+msgstr ""
+
+#: ../makali/theme-config.php:225
+msgid "Show back to top button on all pages"
+msgstr ""
+
+#: ../makali/theme-config.php:231
+msgid "Row space"
+msgstr ""
+
+#: ../makali/theme-config.php:232
+msgid "Space between row, default value: 95px"
+msgstr ""
+
+#: ../makali/theme-config.php:239
+msgid "Width Container"
+msgstr ""
+
+#: ../makali/theme-config.php:240
+msgid "Width of container."
+msgstr ""
+
+#: ../makali/theme-config.php:248
+msgid "Colors"
+msgstr ""
+
+#: ../makali/theme-config.php:249
+msgid "Color options"
+msgstr ""
+
+#: ../makali/theme-config.php:255
+msgid "Primary Color"
+msgstr ""
+
+#: ../makali/theme-config.php:256
+msgid "Pick a color for primary color (default: #c1b17e)."
+msgstr ""
+
+#: ../makali/theme-config.php:264
+msgid "Hover Color for Item Menu"
+msgstr ""
+
+#: ../makali/theme-config.php:265
+msgid "Pick a color for hover/active color of item level 1 (Horizontal Menu)."
+msgstr ""
+
+#: ../makali/theme-config.php:274
+msgid "Sale Label BG Color"
+msgstr ""
+
+#: ../makali/theme-config.php:275
+msgid "Pick a color for bg sale label (default: #c1b17e)."
+msgstr ""
+
+#: ../makali/theme-config.php:284
+msgid "Sale Label Text Color"
+msgstr ""
+
+#: ../makali/theme-config.php:285
+msgid "Pick a color for sale label text (default: #ffffff)."
+msgstr ""
+
+#: ../makali/theme-config.php:294
+msgid "Rating Star Color"
+msgstr ""
+
+#: ../makali/theme-config.php:295
+msgid "Pick a color for star of rating (default: #c1b17e)."
+msgstr ""
+
+#: ../makali/theme-config.php:304
+msgid "Link Color"
+msgstr ""
+
+#: ../makali/theme-config.php:305
+msgid "Pick a color for link (default: #323232)."
+msgstr ""
+
+#: ../makali/theme-config.php:316
+msgid "Text selected background"
+msgstr ""
+
+#: ../makali/theme-config.php:317
+msgid "Select background for selected text (default: #91b2c3)."
+msgstr ""
+
+#: ../makali/theme-config.php:325
+msgid "Text selected color"
+msgstr ""
+
+#: ../makali/theme-config.php:326
+msgid "Select color for selected text (default: #ffffff)."
+msgstr ""
+
+#: ../makali/theme-config.php:353
+msgid "Header 1"
+msgstr ""
+
+#: ../makali/theme-config.php:354
+msgid "Header Mobile 1"
+msgstr ""
+
+#: ../makali/theme-config.php:357
+msgid "Header"
+msgstr ""
+
+#: ../makali/theme-config.php:358
+msgid "Header options"
+msgstr ""
+
+#: ../makali/theme-config.php:364
+msgid "Header Layout"
+msgstr ""
+
+#: ../makali/theme-config.php:366 ../makali/theme-config.php:644
+msgid "Go to Visual Composer => Templates to create/edit layout"
+msgstr ""
+
+#: ../makali/theme-config.php:374
+msgid "Header Mobile Layout"
+msgstr ""
+
+#: ../makali/theme-config.php:376
+msgid "Go to WPBakery Page Builder => Templates to create/edit layout"
+msgstr ""
+
+#: ../makali/theme-config.php:385
+msgid "Header background"
+msgstr ""
+
+#: ../makali/theme-config.php:386 ../makali/theme-config.php:474
+#: ../makali/theme-config.php:654 ../makali/theme-config.php:1408
+msgid "Upload image or select color."
+msgstr ""
+
+#: ../makali/theme-config.php:393
+msgid "Header text color"
+msgstr ""
+
+#: ../makali/theme-config.php:394
+msgid "Pick a color for header color (default: #767676)."
+msgstr ""
+
+#: ../makali/theme-config.php:402
+msgid "Header link color"
+msgstr ""
+
+#: ../makali/theme-config.php:403
+msgid "Pick a color for header link color (default: #767676)."
+msgstr ""
+
+#: ../makali/theme-config.php:415
+msgid "Dropdown menu background"
+msgstr ""
+
+#: ../makali/theme-config.php:416
+msgid "Pick a color for dropdown menu background (default: #ffffff)."
+msgstr ""
+
+#: ../makali/theme-config.php:425
+msgid "Sticky header"
+msgstr ""
+
+#: ../makali/theme-config.php:431
+msgid "Use sticky header"
+msgstr ""
+
+#: ../makali/theme-config.php:437
+msgid "Header sticky background"
+msgstr ""
+
+#: ../makali/theme-config.php:466
+msgid "Top Bar"
+msgstr ""
+
+#: ../makali/theme-config.php:473
+msgid "Topbar background"
+msgstr ""
+
+#: ../makali/theme-config.php:481
+msgid "Top bar text color"
+msgstr ""
+
+#: ../makali/theme-config.php:482
+msgid "Pick a color for top bar text color (default: #767676)."
+msgstr ""
+
+#: ../makali/theme-config.php:491
+msgid "Top bar link color"
+msgstr ""
+
+#: ../makali/theme-config.php:492
+msgid "Pick a color for top bar link color (default: #767676)."
+msgstr ""
+
+#: ../makali/theme-config.php:504
+msgid "Menu"
+msgstr ""
+
+#: ../makali/theme-config.php:510
+msgid "Mobile menu label"
+msgstr ""
+
+#: ../makali/theme-config.php:511
+msgid "The label for mobile menu (example: Menu, Go to..."
+msgstr ""
+
+#: ../makali/theme-config.php:518
+msgid "Submenu background"
+msgstr ""
+
+#: ../makali/theme-config.php:519
+msgid "Pick a color for sub menu bg (default: #ffffff)."
+msgstr ""
+
+#: ../makali/theme-config.php:528
+msgid "Notification"
+msgstr ""
+
+#: ../makali/theme-config.php:534
+msgid "Background of Notification"
+msgstr ""
+
+#: ../makali/theme-config.php:535
+msgid "Pick a color for background of notification"
+msgstr ""
+
+#: ../makali/theme-config.php:543
+msgid "Notification text color"
+msgstr ""
+
+#: ../makali/theme-config.php:544
+msgid "Pick a color for notification color."
+msgstr ""
+
+#: ../makali/theme-config.php:559
+msgid "Category menu background"
+msgstr ""
+
+#: ../makali/theme-config.php:560
+msgid "Pick a color for category menu background (default: #ffffff)."
+msgstr ""
+
+#: ../makali/theme-config.php:569
+msgid "Sub category menu background"
+msgstr ""
+
+#: ../makali/theme-config.php:570
+msgid "Pick a color for category sub menu background (default: #ffffff)."
+msgstr ""
+
+#: ../makali/theme-config.php:578
+msgid "Category menu label"
+msgstr ""
+
+#: ../makali/theme-config.php:579
+msgid "The label for category menu"
+msgstr ""
+
+#: ../makali/theme-config.php:585
+msgid "Number of items"
+msgstr ""
+
+#: ../makali/theme-config.php:586
+msgid "Number of menu items level 1 to show, default value: 9"
+msgstr ""
+
+#: ../makali/theme-config.php:596
+msgid "More items label"
+msgstr ""
+
+#: ../makali/theme-config.php:597
+msgid "The label for more items button"
+msgstr ""
+
+#: ../makali/theme-config.php:603
+msgid "Less items label"
+msgstr ""
+
+#: ../makali/theme-config.php:604
+msgid "The label for less items button"
+msgstr ""
+
+#: ../makali/theme-config.php:610
+msgid "Home Category Menu"
+msgstr ""
+
+#: ../makali/theme-config.php:611
+msgid "Always show category menu on home page"
+msgstr ""
+
+#: ../makali/theme-config.php:635
+msgid "Footer"
+msgstr ""
+
+#: ../makali/theme-config.php:636
+msgid "Footer options"
+msgstr ""
+
+#: ../makali/theme-config.php:642
+msgid "Footer Layout"
+msgstr ""
+
+#: ../makali/theme-config.php:653
+msgid "Footer background"
+msgstr ""
+
+#: ../makali/theme-config.php:660
+msgid "Footer text color"
+msgstr ""
+
+#: ../makali/theme-config.php:661
+msgid "Pick a color for footer color (default: #777777)."
+msgstr ""
+
+#: ../makali/theme-config.php:669
+msgid "Footer title color"
+msgstr ""
+
+#: ../makali/theme-config.php:670
+msgid "Pick a color for footer title color (default: #323232)."
+msgstr ""
+
+#: ../makali/theme-config.php:678
+msgid "Footer link color"
+msgstr ""
+
+#: ../makali/theme-config.php:679
+msgid "Pick a color for footer link color (default: #777777)."
+msgstr ""
+
+#: ../makali/theme-config.php:690
+msgid "Button Newsletter Background"
+msgstr ""
+
+#: ../makali/theme-config.php:691 ../makali/theme-config.php:709
+msgid "Pick a color for button"
+msgstr ""
+
+#: ../makali/theme-config.php:699
+msgid "Button Newsletter Background on hover"
+msgstr ""
+
+#: ../makali/theme-config.php:700 ../makali/theme-config.php:718
+msgid "Pick a color for background on hover"
+msgstr ""
+
+#: ../makali/theme-config.php:708
+msgid "Button Newsletter Color"
+msgstr ""
+
+#: ../makali/theme-config.php:717
+msgid "Button Newsletter Color on hover"
+msgstr ""
+
+#: ../makali/theme-config.php:733
+msgid "Enter social links"
+msgstr ""
+
+#: ../makali/theme-config.php:734
+msgid "Drag/drop to re-arrange"
+msgstr ""
+
+#: ../makali/theme-config.php:770
+msgid "Fonts"
+msgstr ""
+
+#: ../makali/theme-config.php:771
+msgid "Fonts options"
+msgstr ""
+
+#: ../makali/theme-config.php:777
+msgid "Body font"
+msgstr ""
+
+#: ../makali/theme-config.php:794
+msgid "Main body font."
+msgstr ""
+
+#: ../makali/theme-config.php:807
+msgid "Heading font"
+msgstr ""
+
+#: ../makali/theme-config.php:824
+msgid "Heading font."
+msgstr ""
+
+#: ../makali/theme-config.php:835
+msgid "Menu font"
+msgstr ""
+
+#: ../makali/theme-config.php:852
+msgid "Menu font."
+msgstr ""
+
+#: ../makali/theme-config.php:864
+msgid "Sub menu font"
+msgstr ""
+
+#: ../makali/theme-config.php:881
+msgid "sub menu font."
+msgstr ""
+
+#: ../makali/theme-config.php:893
+msgid "Dropdown menu font"
+msgstr ""
+
+#: ../makali/theme-config.php:910
+msgid "Dropdown menu font."
+msgstr ""
+
+#: ../makali/theme-config.php:922
+msgid "Category menu font"
+msgstr ""
+
+#: ../makali/theme-config.php:939
+msgid "Category menu font."
+msgstr ""
+
+#: ../makali/theme-config.php:951
+msgid "Category sub menu font"
+msgstr ""
+
+#: ../makali/theme-config.php:968
+msgid "Category sub menu font."
+msgstr ""
+
+#: ../makali/theme-config.php:980
+msgid "Price font"
+msgstr ""
+
+#: ../makali/theme-config.php:997
+msgid "Price font."
+msgstr ""
+
+#: ../makali/theme-config.php:1011
+msgid "Upload images and links"
+msgstr ""
+
+#: ../makali/theme-config.php:1017
+msgid "Images"
+msgstr ""
+
+#: ../makali/theme-config.php:1018
+msgid "Upload images and enter links."
+msgstr ""
+
+#: ../makali/theme-config.php:1020 ../makali/theme-config.php:1039
+#: ../makali/woocommerce/class-wc-widget-cart.php:27
+msgid "Title"
+msgstr ""
+
+#: ../makali/theme-config.php:1021 ../makali/theme-config.php:1040
+msgid "Description"
+msgstr ""
+
+#: ../makali/theme-config.php:1022 ../makali/theme-config.php:1041
+msgid "Link"
+msgstr ""
+
+#: ../makali/theme-config.php:1030
+msgid "Upload brand logos and links"
+msgstr ""
+
+#: ../makali/theme-config.php:1036
+msgid "Logos"
+msgstr ""
+
+#: ../makali/theme-config.php:1037
+msgid "Upload logo image and enter logo link."
+msgstr ""
+
+#: ../makali/theme-config.php:1048
+msgid "Inner Brand Logos"
+msgstr ""
+
+#: ../makali/theme-config.php:1055
+msgid "Brand carousel in inner pages"
+msgstr ""
+
+#: ../makali/theme-config.php:1056
+msgid "Show brand carousel in inner pages"
+msgstr ""
+
+#: ../makali/theme-config.php:1062 ../makali/theme-config.php:1370
+msgid "Auto scroll"
+msgstr ""
+
+#: ../makali/theme-config.php:1068
+msgid "Scroll amount"
+msgstr ""
+
+#: ../makali/theme-config.php:1069
+msgid "Number of logos to scroll one time, default value: 1"
+msgstr ""
+
+#: ../makali/theme-config.php:1079 ../makali/theme-config.php:1376
+msgid "Pause in (seconds)"
+msgstr ""
+
+#: ../makali/theme-config.php:1080 ../makali/theme-config.php:1377
+msgid "Pause time, default value: 3000"
+msgstr ""
+
+#: ../makali/theme-config.php:1090 ../makali/theme-config.php:1387
+msgid "Animate in (seconds)"
+msgstr ""
+
+#: ../makali/theme-config.php:1091 ../makali/theme-config.php:1388
+msgid "Animate time, default value: 2000"
+msgstr ""
+
+#: ../makali/theme-config.php:1102
+msgid "Sidebar"
+msgstr ""
+
+#: ../makali/theme-config.php:1103
+msgid "Sidebar options"
+msgstr ""
+
+#: ../makali/theme-config.php:1109
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: ../makali/theme-config.php:1110
+msgid "Sidebar on shop page"
+msgstr ""
+
+#: ../makali/theme-config.php:1119
+msgid "Single Product Sidebar Position"
+msgstr ""
+
+#: ../makali/theme-config.php:1120
+msgid "Sidebar on single product page"
+msgstr ""
+
+#: ../makali/theme-config.php:1129
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: ../makali/theme-config.php:1130
+msgid "Sidebar on Blog pages"
+msgstr ""
+
+#: ../makali/theme-config.php:1139
+msgid "Inner Pages Sidebar Position"
+msgstr ""
+
+#: ../makali/theme-config.php:1140
+msgid "Sidebar on pages (default pages)"
+msgstr ""
+
+#: ../makali/theme-config.php:1149
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../makali/theme-config.php:1150
+msgid "Add more sidebars"
+msgstr ""
+
+#: ../makali/theme-config.php:1151
+msgid ""
+"Enter sidebar name (Only allow digits and letters). click Add more to add "
+"more sidebar. Edit your page to select a sidebar "
+msgstr ""
+
+#: ../makali/theme-config.php:1157 ../makali/woocommerce/cart/cart.php:30
+msgid "Product"
+msgstr ""
+
+#: ../makali/theme-config.php:1158
+msgid "Use this section to select options for product"
+msgstr ""
+
+#: ../makali/theme-config.php:1164
+msgid "Banner image in shop pages"
+msgstr ""
+
+#: ../makali/theme-config.php:1167 ../makali/theme-config.php:1254
+msgid "Upload image here."
+msgstr ""
+
+#: ../makali/theme-config.php:1172
+msgid "Show individual category thumnail"
+msgstr ""
+
+#: ../makali/theme-config.php:1173
+msgid "Show individual category thumnail in product category pages"
+msgstr ""
+
+#: ../makali/theme-config.php:1179
+msgid "Shop Layout"
+msgstr ""
+
+#: ../makali/theme-config.php:1189
+msgid "Shop default view"
+msgstr ""
+
+#: ../makali/theme-config.php:1199
+msgid "Products per page"
+msgstr ""
+
+#: ../makali/theme-config.php:1200
+msgid "Amount of products per page on category page"
+msgstr ""
+
+#: ../makali/theme-config.php:1210
+msgid "Product columns"
+msgstr ""
+
+#: ../makali/theme-config.php:1211
+msgid "Amount of product columns on category page"
+msgstr ""
+
+#: ../makali/theme-config.php:1212 ../makali/theme-config.php:1224
+msgid "Only works with: 1, 2, 3, 4, 6"
+msgstr ""
+
+#: ../makali/theme-config.php:1222
+msgid "Product columns on full width shop"
+msgstr ""
+
+#: ../makali/theme-config.php:1223
+msgid "Amount of product columns on full width category page"
+msgstr ""
+
+#: ../makali/theme-config.php:1235
+msgid "Product page"
+msgstr ""
+
+#: ../makali/theme-config.php:1241
+msgid "Single Product Layout"
+msgstr ""
+
+#: ../makali/theme-config.php:1251
+msgid "Banner image for single product pages"
+msgstr ""
+
+#: ../makali/theme-config.php:1259
+msgid "Related product title"
+msgstr ""
+
+#: ../makali/theme-config.php:1265
+msgid "Upsell product title"
+msgstr ""
+
+#: ../makali/theme-config.php:1271
+msgid "Number of related products"
+msgstr ""
+
+#: ../makali/theme-config.php:1281
+msgid "Product share title"
+msgstr ""
+
+#: ../makali/theme-config.php:1288 ../makali/theme-config.php:1307
+msgid "Quick View"
+msgstr ""
+
+#: ../makali/theme-config.php:1294
+msgid "View details text"
+msgstr ""
+
+#: ../makali/theme-config.php:1300
+msgid "View all features text"
+msgstr ""
+
+#: ../makali/theme-config.php:1301
+msgid "This is the text on quick view box"
+msgstr ""
+
+#: ../makali/theme-config.php:1308
+msgid "Show quick view button on all pages"
+msgstr ""
+
+#: ../makali/theme-config.php:1316
+msgid "Use this section to select options for blog"
+msgstr ""
+
+#: ../makali/theme-config.php:1322
+msgid "Blog header text"
+msgstr ""
+
+#: ../makali/theme-config.php:1328
+msgid "Blog Layout"
+msgstr ""
+
+#: ../makali/theme-config.php:1340
+msgid "Read more text"
+msgstr ""
+
+#: ../makali/theme-config.php:1346
+msgid "Excerpt length on blog page"
+msgstr ""
+
+#: ../makali/theme-config.php:1356
+msgid "Blog share title"
+msgstr ""
+
+#: ../makali/theme-config.php:1364
+msgid "Use this section to select options for Testimonials"
+msgstr ""
+
+#: ../makali/theme-config.php:1399
+msgid "Error 404 Page"
+msgstr ""
+
+#: ../makali/theme-config.php:1400
+msgid "Error 404 page options"
+msgstr ""
+
+#: ../makali/theme-config.php:1407
+msgid "Error 404 background"
+msgstr ""
+
+#: ../makali/theme-config.php:1415
+msgid "Less Compiler"
+msgstr ""
+
+#: ../makali/theme-config.php:1416
+msgid ""
+"Turn on this option to apply all theme options. Turn of when you have "
+"finished changing theme options and your site is ready."
+msgstr ""
+
+#: ../makali/theme-config.php:1422
+msgid "Enable Less Compiler"
+msgstr ""
+
+#: ../makali/theme-config.php:1428
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../makali/theme-config.php:1429
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../makali/theme-config.php:1430
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../makali/theme-config.php:1434
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../makali/theme-config.php:1438
+msgid "Import / Export"
+msgstr ""
+
+#: ../makali/theme-config.php:1439
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: ../makali/theme-config.php:1453
+msgid "Theme Information"
+msgstr ""
+
+#: ../makali/theme-config.php:1467
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../makali/theme-config.php:1468 ../makali/theme-config.php:1473
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../makali/theme-config.php:1472
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../makali/theme-config.php:1476
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../makali/theme-config.php:1491 ../makali/theme-config.php:1492
+msgid "Theme Options"
+msgstr ""
+
+#: ../makali/woocommerce/archive-product.php:97
+msgid "All"
+msgstr ""
+
+#: ../makali/woocommerce/archive-product.php:145
+msgid "View on"
+msgstr ""
+
+#: ../makali/woocommerce/archive-product.php:146
+msgid "Grid"
+msgstr ""
+
+#: ../makali/woocommerce/archive-product.php:147
+msgid "List"
+msgstr ""
+
+#: ../makali/woocommerce/cart/cart.php:31
+msgid "Price"
+msgstr ""
+
+#: ../makali/woocommerce/cart/cart.php:32
+msgid "Quantity"
+msgstr ""
+
+#: ../makali/woocommerce/cart/cart.php:33
+#: ../makali/woocommerce/myaccount/my-orders.php:43
+#: ../makali/woocommerce/myaccount/my-orders.php:66
+msgid "Total"
+msgstr ""
+
+#: ../makali/woocommerce/cart/cart.php:55
+#: ../makali/woocommerce/cart/mini-cart.php:67
+msgid "Remove this item"
+msgstr ""
+
+#: ../makali/woocommerce/cart/cart.php:89
+msgid "Available on backorder"
+msgstr ""
+
+#: ../makali/woocommerce/cart/cart.php:134
+msgid "Update cart"
+msgstr ""
+
+#: ../makali/woocommerce/cart/cart.php:150
+msgid "Coupon"
+msgstr ""
+
+#: ../makali/woocommerce/cart/cart.php:151
+msgid "Enter your coupon code if you have one."
+msgstr ""
+
+#: ../makali/woocommerce/cart/cross-sells.php:53
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../makali/woocommerce/cart/mini-cart.php:36
+#: ../makali/woocommerce/class-wc-widget-cart.php:26
+#: ../makali/woocommerce/class-wc-widget-cart.php:48
+msgid "Cart"
+msgstr ""
+
+#: ../makali/woocommerce/cart/mini-cart.php:91
+msgid "Subtotal"
+msgstr ""
+
+#: ../makali/woocommerce/cart/mini-cart.php:99
+msgid "No products in the cart."
+msgstr ""
+
+#: ../makali/woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../makali/woocommerce/checkout/form-checkout.php:59
+msgid "Your order"
+msgstr ""
+
+#: ../makali/woocommerce/class-wc-widget-cart.php:20
+msgid "Display the user's Cart in the sidebar."
+msgstr ""
+
+#: ../makali/woocommerce/class-wc-widget-cart.php:22
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: ../makali/woocommerce/class-wc-widget-cart.php:32
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: ../makali/woocommerce/content-product.php:148
+#, php-format
+msgid "Available: <span>%s</span>"
+msgstr ""
+
+#: ../makali/woocommerce/content-product.php:152
+#, php-format
+msgid "Sold: <span>%s</span>"
+msgstr ""
+
+#: ../makali/woocommerce/loop/orderby.php:26
+msgid "Sort By :"
+msgstr ""
+
+#: ../makali/woocommerce/myaccount/my-orders.php:34
+msgid "Recent Orders"
+msgstr ""
+
+#: ../makali/woocommerce/myaccount/my-orders.php:40
+msgid "Order"
+msgstr ""
+
+#: ../makali/woocommerce/myaccount/my-orders.php:41
+#: ../makali/woocommerce/myaccount/my-orders.php:60
+msgid "Date"
+msgstr ""
+
+#: ../makali/woocommerce/myaccount/my-orders.php:55
+msgid "Order Number"
+msgstr ""
+
+#: ../makali/woocommerce/myaccount/my-orders.php:67
+#, php-format
+msgid "%s for %s item"
+msgstr ""
+
+#: ../makali/woocommerce/myaccount/my-orders.php:76
+msgid "Pay"
+msgstr ""
+
+#: ../makali/woocommerce/myaccount/my-orders.php:83
+msgid "Cancel"
+msgstr ""
+
+#: ../makali/woocommerce/myaccount/my-orders.php:89
+msgid "View"
+msgstr ""
+
+#: ../makali/woocommerce/single-product/rating.php:36
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../makali/woocommerce/single-product/rating.php:38
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: ../makali/woocommerce/single-product/rating.php:39
+#, php-format
+msgid "based on %s customer rating"
+msgstr ""
+
+#: ../makali/woocommerce/single-product/rating.php:42
+#, php-format
+msgid "%s customer review"
+msgstr ""
+
+#: ../makali/woocommerce/single-product/related.php:32
+msgid "Related Products"
+msgstr ""
+
+#: ../makali/woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: ../makali/woocommerce/single-product/up-sells.php:32
+msgid "Upsell Products"
+msgstr ""
